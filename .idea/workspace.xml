@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="500071f0-fbec-4485-b437-e2160125ecac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_05.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Configration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Full_Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/MixDesignTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/ResultandReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Sample_Full.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/Full_Code/Trial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/ResultandReport/FinishProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/ResultandReport/RawMaterial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/ResultandReport/ResultandReport_F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/Full_Master_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/FinishProductDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/FinishProductSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/IncommingSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/ProcessSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Config_Full_Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/Trial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/nonplant_user/NonPlantUser_Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/nonplant_user/NonPlantUser_Privilage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/privillageConfiguration/PlantRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/privillageConfiguration/SuperAdminPrivillage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/privillageConfiguration/TokiyoLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712169718.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712247024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712438656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712500587.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599712992410.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713136222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713320611.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713452711.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713543626.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713577368.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599713903542.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599714264517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599715870220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599716000580.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816014978.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816040718.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816064517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816260106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599816587829.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817329226.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817646986.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817672200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817937146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599817997654.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818023921.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818050338.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818076517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818137376.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818339355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599818556598.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599819228920.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822398499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822599603.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822628672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599822951304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823041714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823077807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823113723.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823149055.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823219778.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599823742295.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882378136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882410158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882446984.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882526367.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882550174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882571341.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599882797002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883133563.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883159672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883184214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883210926.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883234782.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883305199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883333235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883361520.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883390567.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883423316.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883454038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883484905.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883515237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883761810.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883804190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883877193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883948955.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599883986560.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884204892.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884234283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884278884.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884322816.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884367365.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884408779.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884482312.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884511897.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884541419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884618653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884682135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884869110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599884943634.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885169975.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885263242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885571732.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885731647.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885804162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599885876286.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1599892177719.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600053723145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600053746002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600054581665.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600054986901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600055004133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600055302865.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600055330084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600056365715.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600056931841.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600057157123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600057614625.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600058716430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600058745083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600061393132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600062602130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600062629285.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/screenshots/1600062656197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/ConfigurationSmoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Full_Smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Privillage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/ResultAndReport.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/Samples.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/TestTial.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testplans/mixdesign.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/MethodBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/MethodBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/PageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/Master.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/MasterRunTokiyo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/Full_Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/DeliveryCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/DeliveryCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/customer/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Designation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Designation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/employee/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/EquipmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/EquipmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/PlantEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/equipment/PlantEquipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialCtaegory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialCtaegory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialSubCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/MaterialSubCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/material/Unit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/plant/PlantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/plant/PlantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/SupplierCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/master/supplier/SupplierCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesignTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesignTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/resultandReport/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/Samples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/samples/Sample_Full.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Configration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/ConfigrationNV/Configration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/ManageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/ManageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/Manage_test_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/manageConfiguretestNV/Manage_test_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/parameterNV/ParameterMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/parameterNV/ParameterMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/parameterNV/QualityParameterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/parameterNV/QualityParameterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/testNV/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testConfiguration/testNV/AddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/EquipmentAllInOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/EquipmentAllInOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/EquipmentCalibration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/FinishProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/FinishProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/ChemicalAdmixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/ChemicalAdmixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/MinaralAdmixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/admixture/MinaralAdmixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/CoarseAggregates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/CoarseAggregates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/FineAggregates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/cards/testTrials/Rawmaterial/aggregates/FineAggregates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Emil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Emil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Privilage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/Admin/Admin_Privilage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/User/User_Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/User/User_Privilage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/plant_Admin/Plant_Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/plant_Admin/Plant_Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/settings/plant_Admin/Plant_Privilage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/qa/utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/qa/utils/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ExcelSheet/TokyooExcel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ExcelSheet/TokyooExcel.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testplans/Smoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui-automation-training-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/ui-automation-training-log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui-automation-training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ui-automation-training.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hta5QNSQSnMujHKtY6kMc0J8Lo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunManager" selected="TestNG.MixDesign.MixDesignDeleteSmokeTest">
+    <configuration name="MixDesign" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.mixDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.mixDesign" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.mixDesign.MixDesign" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixDesignTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.mixDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.mixDesign" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.mixDesign.MixDesignTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixDesign.MixDesignDeleteSmokeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.mixDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.mixDesign" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.mixDesign.MixDesign" />
+      <option name="METHOD_NAME" value="MixDesignDeleteSmokeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MixDesign.MixDesignWithOutDataTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-automation-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.qa.cards.mixDesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.qa.cards.mixDesign" />
+      <option name="MAIN_CLASS_NAME" value="com.test.qa.cards.mixDesign.MixDesign" />
+      <option name="METHOD_NAME" value="MixDesignWithOutDataTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MixDesign.MixDesignDeleteSmokeTest" />
+        <item itemvalue="TestNG.MixDesignTest" />
+        <item itemvalue="TestNG.MixDesign.MixDesignWithOutDataTest" />
+        <item itemvalue="TestNG.MixDesign" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="500071f0-fbec-4485-b437-e2160125ecac" name="Default Changelist" comment="" />
+      <created>1600832661177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600832661177</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600833986825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600833986825" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600833986825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600833986825" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600833986825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600833986825" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600833986825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600833986825" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test/qa/cards/mixDesign/MixDesign.java</url>
+          <line>16</line>
+          <properties class="com.test.qa.cards.mixDesign.MixDesign" method="MixDesignWithOutDataTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
